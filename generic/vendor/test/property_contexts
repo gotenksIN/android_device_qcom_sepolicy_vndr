@@ -71,8 +71,3 @@ persist.vendor.iwlan.logging.logcat          u:object_r:vendor_cnd_prop:s0
 
 #IPA AGENT for SPEARHEAD Diag Logging
 ctl.vendor.ipa_lnx_agent   u:object_r:vendor_ipa_lnx_agent_prop:s0
-
-# nicmd ko loading
-persist.vendor.data.shs_ko_load u:object_r:vendor_data_ko_prop:s0
-persist.vendor.data.perf_ko_load u:object_r:vendor_data_ko_prop:s0
-persist.vendor.data.offload_ko_load u:object_r:vendor_data_ko_prop:s0

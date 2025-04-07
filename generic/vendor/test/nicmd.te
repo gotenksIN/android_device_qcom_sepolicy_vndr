@@ -30,5 +30,3 @@
 # OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
 # IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-# Allow nicmd to set vendor data kernel module loading properties
-set_prop(vendor_nicmd, vendor_data_ko_prop)
